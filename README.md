@@ -16,7 +16,6 @@
 	git help commit
 	git help <qualquer_comando_git>
 	
-
 ## Configuração
 
 ### Geral
